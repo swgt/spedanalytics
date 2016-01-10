@@ -1,0 +1,1 @@
+web: gunicorn spedanalytics.wsgi --log-file -
