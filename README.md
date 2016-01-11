@@ -4,7 +4,6 @@ Sistema de Analise dos dados do SPED Fiscal.
 
 [![Build Status](https://travis-ci.org/swgt/spedanalytics.svg?branch=master)](https://travis-ci.org/swgt/spedanalytics)
 [![Code Health](https://landscape.io/github/swgt/spedanalytics/master/landscape.svg?style=flat)](https://landscape.io/github/swgt/spedanalytics/master)
-[![Coverage Status](https://coveralls.io/repos/swgt/spedanalytics/badge.svg?branch=master&service=github)](https://coveralls.io/github/swgt/spedanalytics?branch=master)
 
 ## Como desenvolver?
 
