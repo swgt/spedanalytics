@@ -1,10 +1,11 @@
 # SPED Analytics
 
-Sistema de Analise dos dados do SPED Fiscal.
+Sistema de Análise dos dados do SPED Fiscal.
 
 [![Build Status](https://travis-ci.org/swgt/spedanalytics.svg?branch=master)](https://travis-ci.org/swgt/spedanalytics)
 [![Code Health](https://landscape.io/github/swgt/spedanalytics/master/landscape.svg?style=flat)](https://landscape.io/github/swgt/spedanalytics/master)
 [![Stories in Ready](https://badge.waffle.io/swgt/spedanalytics.png?label=ready&title=Ready)](https://waffle.io/swgt/spedanalytics)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
